@@ -1,0 +1,21 @@
+{
+  "name": "lapis-data-ui",
+  "version": "0.0.0",
+  "description": "Combination of Data and UI Components",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodeunit test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rullionsolutions/lapis-data-ui"
+  },
+  "author": "stephen.d.francis@gmail.com",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "underscore": ">= 1.0.0",
+    "lapis-core": ">= 0.0.0",
+    "lapis-data": ">= 0.0.0",
+    "lapis-ui"  : ">= 0.0.0"
+  }
+}
